@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85df7154-9b3d-4258-a831-c2798eb80d85" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZaUgeoLuN9eyZw0frJcv7ZmJpt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BasicsPrograms" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.snake_game">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Snake_game" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/basics/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="enquiry" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Snake_game" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/enquiry.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="snake" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Snake_game" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/snake.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="snake_game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Snake_game" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/snake_game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.enquiry" />
+      <item itemvalue="Python.snake" />
+      <item itemvalue="Python.snake_game" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.snake_game" />
+        <item itemvalue="Python.enquiry" />
+        <item itemvalue="Python.snake" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85df7154-9b3d-4258-a831-c2798eb80d85" name="Default Changelist" comment="" />
+      <created>1585076810270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585076810270</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="170" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585077205911">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="170" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/59.27.1307.741@59.27.1307.741" timestamp="1585077205911" />
+    <state x="376" y="209" width="662" height="391" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585232254958">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="376" y="209" width="662" height="391" key="#com.intellij.fileTypes.FileTypeChooser/59.27.1307.741@59.27.1307.741" timestamp="1585232254954" />
+    <state x="457" y="141" width="501" height="514" key="FileChooserDialogImpl" timestamp="1585306943179">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="457" y="141" width="501" height="514" key="FileChooserDialogImpl/59.27.1307.741@59.27.1307.741" timestamp="1585306943179" />
+    <state width="632" height="104" key="GridCell.Tab.0.bottom" timestamp="1585238302794">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="632" height="104" key="GridCell.Tab.0.bottom/59.27.1307.741@59.27.1307.741" timestamp="1585238302794" />
+    <state width="632" height="104" key="GridCell.Tab.0.center" timestamp="1585238302793">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="632" height="104" key="GridCell.Tab.0.center/59.27.1307.741@59.27.1307.741" timestamp="1585238302793" />
+    <state width="632" height="104" key="GridCell.Tab.0.left" timestamp="1585238302792">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="632" height="104" key="GridCell.Tab.0.left/59.27.1307.741@59.27.1307.741" timestamp="1585238302792" />
+    <state width="632" height="104" key="GridCell.Tab.0.right" timestamp="1585238302793">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="632" height="104" key="GridCell.Tab.0.right/59.27.1307.741@59.27.1307.741" timestamp="1585238302793" />
+    <state width="632" height="102" key="GridCell.Tab.1.bottom" timestamp="1585143562580">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="632" height="102" key="GridCell.Tab.1.bottom/59.27.1307.741@59.27.1307.741" timestamp="1585143562580" />
+    <state width="632" height="102" key="GridCell.Tab.1.center" timestamp="1585143562577">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="632" height="102" key="GridCell.Tab.1.center/59.27.1307.741@59.27.1307.741" timestamp="1585143562577" />
+    <state width="632" height="102" key="GridCell.Tab.1.left" timestamp="1585143562576">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="632" height="102" key="GridCell.Tab.1.left/59.27.1307.741@59.27.1307.741" timestamp="1585143562576" />
+    <state width="632" height="102" key="GridCell.Tab.1.right" timestamp="1585143562578">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="632" height="102" key="GridCell.Tab.1.right/59.27.1307.741@59.27.1307.741" timestamp="1585143562578" />
+    <state x="201" y="33" width="1022" height="731" key="SettingsEditor" timestamp="1585058315473">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="201" y="33" width="1022" height="731" key="SettingsEditor/59.27.1307.741@59.27.1307.741" timestamp="1585058315473" />
+    <state x="368" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1585306861948">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="368" y="225" key="com.intellij.ide.util.TipDialog/59.27.1307.741@59.27.1307.741" timestamp="1585306861948" />
+    <state x="169" y="147" width="1087" height="501" key="dock-window-1" timestamp="1585122498862">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="169" y="147" width="1087" height="501" key="dock-window-1/59.27.1307.741@59.27.1307.741" timestamp="1585122498861" />
+    <state x="169" y="147" width="1087" height="501" maximized="true" key="dock-window-2" timestamp="1585122498862">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="169" y="147" width="1087" height="501" maximized="true" key="dock-window-2/59.27.1307.741@59.27.1307.741" timestamp="1585122498862" />
+    <state x="0" y="27" width="866" height="741" key="find.popup" timestamp="1585076857009">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="0" y="27" width="866" height="741" key="find.popup/59.27.1307.741@59.27.1307.741" timestamp="1585076857009" />
+  </component>
+</project>
